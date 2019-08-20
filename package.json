@@ -1,0 +1,15 @@
+{
+  "name": "modulo02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phellipe/modulo02.git",
+  "author": "João Phellipe de Freitas Pinto <phellipe@ufersa.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "sucrase": "^3.10.1"
+  }
+}
